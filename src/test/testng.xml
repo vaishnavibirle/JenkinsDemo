@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/irg/IdeaProjects/JenkinsDemo/src/test/java/com/bridgelabz/selenium/test/Tests.java">
+        <classes>
+            <class name="com.bridgelabz.selenium.test.Tests">
+                <methods>
+                    <include name="login_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
